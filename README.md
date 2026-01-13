@@ -10,7 +10,6 @@ I believe learning happens best when theory meets practice. That mindset has pus
 
 - Backend engineering and API design  
 - Distributed systems and microservices  
-- Applying AI/NLP to solve practical problems  
 - Writing clean, maintainable, and scalable code  
 - Understanding how large systems work end to end  
 
